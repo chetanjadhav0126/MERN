@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+main h1 {
+    color: white;
+}
+
+#bulb {
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    background-color: white;
+    margin: 100px;
+}
+
+button {
+    background-color: aqua;
+    color: red;
+    padding: 20px;
+    margin-left: 250px;
+
+}
+
+
+.red1, #green {
+    color: brown;
+    background-color: white;
+    font-size: 30px;
+}
