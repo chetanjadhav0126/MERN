@@ -1,0 +1,82 @@
+[
+    {
+        "image_url": {
+            "url": "https://images.pexels.com/photos/18038881/pexels-photo-18038881/free-photo-of-sports-shelby-mustang-on-parking-lot.jpeg",
+            "alt": "Shelby GT500"
+        },
+        "name": "Shelby GT500",
+        "model": "2024",
+        "price": 79995,
+        "engine_specs": "5.2L Supercharged V8",
+        "top_speed": 180,
+        "buy_url": {
+            "url": "https://www.ford.com/cars/mustang/shelby-gt500/",
+            "alt": "navigate"
+        },
+        "summary": "The Shelby GT500 is the most powerful street-legal Ford vehicle ever produced. This legendary performance car combines raw power with advanced technology to create an awe-inspiring driving experience."
+    },
+    {
+        "image_url": {
+            "url": "https://images.pexels.com/photos/10550012/pexels-photo-10550012.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "alt": "Bugatti Chiron"
+        },
+        "name": "Bugatti Chiron", 
+        "model": "2023",
+        "price": 3000000,
+        "engine_specs": "8.0L Quad-Turbocharged W16",
+        "top_speed": 261,
+        "buy_url": {
+            "url": "https://www.bugatti.com/models/chiron/",
+            "alt": "navigate"
+        },
+        "summary": "The Bugatti Chiron represents the pinnacle of automotive engineering, combining extraordinary performance with luxurious comfort. Each vehicle is handcrafted to perfection."
+    },
+    {
+        "image_url": {
+            "url": "https://images.pexels.com/photos/3752169/pexels-photo-3752169.jpeg",
+            "alt": "Lamborghini Aventador"
+        },
+        "name": "Lamborghini Aventador",
+        "model": "2022", 
+        "price": 507353,
+        "engine_specs": "6.5L V12",
+        "top_speed": 217,
+        "buy_url": {
+            "url": "https://www.lamborghini.com/en-en/models/aventador",
+            "alt": "navigate"
+        },
+        "summary": "The Lamborghini Aventador is the flagship V12 supercar from the iconic Italian manufacturer. Its aggressive styling and incredible performance capabilities make it a true automotive legend."
+    },
+    {
+        "image_url": {
+            "url": "https://images.pexels.com/photos/10550012/pexels-photo-10550012.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "alt": "McLaren P1"
+        },
+        "name": "McLaren P1",
+        "model": "2021",
+        "price": 1150000,
+        "engine_specs": "3.8L Twin-Turbo V8 Hybrid",
+        "top_speed": 217,
+        "buy_url": {
+            "url": "https://cars.mclaren.com/en/legacy/mclaren-p1",
+            "alt": "navigate"
+        },
+        "summary": "The McLaren P1 is a limited-production plug-in hybrid hypercar that showcases McLaren's racing heritage and technological innovation. It represents the perfect blend of performance and efficiency."
+    },
+    {
+        "image_url": {
+            "url": "https://images.pexels.com/photos/2664399/pexels-photo-2664399.jpeg",
+            "alt": "Ferrari LaFerrari"
+        },
+        "name": "Ferrari LaFerrari",
+        "model": "2020",
+        "price": 1416362,
+        "engine_specs": "6.3L V12 Hybrid",
+        "top_speed": 217,
+        "buy_url": {
+            "url": "https://www.ferrari.com/en-EN/auto/laferrari",
+            "alt": "navigate"
+        },
+        "summary": "The LaFerrari represents Ferrari's first hybrid supercar, combining a powerful V12 engine with an electric motor. It embodies the pinnacle of Ferrari's technological achievements and racing expertise."
+    }
+]
